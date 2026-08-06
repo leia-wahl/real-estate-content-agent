@@ -1,0 +1,29 @@
+[
+  {
+    "address": "123 Lakeview Dr, Burnsville, MN",
+    "price": 485000,
+    "beds": 4,
+    "baths": 2.5,
+    "sqft": 2650,
+    "features": ["a chef's kitchen", "walkout basement", "lake views"],
+    "photo_urls": ["https://mock.media/123-lakeview/1.jpg"]
+  },
+  {
+    "address": "77 Maple St, St Paul, MN",
+    "price": 299000,
+    "beds": 2,
+    "baths": 1,
+    "sqft": 1100,
+    "features": ["original hardwood floors"],
+    "photo_urls": ["https://mock.media/77-maple/1.jpg"]
+  },
+  {
+    "address": "9 Birch Ct, Edina, MN",
+    "price": 720000,
+    "beds": 5,
+    "baths": 3.5,
+    "sqft": 3900,
+    "features": ["home theater", "heated pool", "3-car garage"],
+    "photo_urls": ["https://mock.media/9-birch/1.jpg"]
+  }
+]
