@@ -1,5 +1,9 @@
 # Real Estate Content Ops Agent
 
+[![CI](https://github.com/leia-wahl/real-estate-content-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/leia-wahl/real-estate-content-agent/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue)
+![LangGraph](https://img.shields.io/badge/built%20with-LangGraph-purple)
+
 > An autonomous agent that turns a single property listing into a full, on-brand
 > social content batch — planning, copywriting, and media generation end-to-end —
 > with built-in safety guardrails and evaluation.
